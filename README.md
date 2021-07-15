@@ -13,11 +13,11 @@ Hi I'm an enthusiastic developer from Barranquilla, currently in São Paulo. I a
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-- 👨🏽‍💻 I’m currently working as Annalyst Support Agent.
+- 👨🏽‍💻 I’m currently working as Analyst Support Agent.
 - 🌱 I’m currently learning Python and Django.
 - 👯 I’m looking to collaborate on Python projects🤝
-- 🎿 Hobbies other than coding : Diving and Play Soccer, thinking about writing blogs 🤔🤖
-- 👁‍🗨 I have always liked scrapy websites.
+- 🎿 Hobbies other than coding : Diving and Playing Soccer 🤿⚽
+- 👁‍🗨 I've always liked to scrap websites.
 - ⚡️ Active contributor to 4YouSee [API documentation](https://4yousee-suporte.github.io)
 - 💬 Ask me about anything, I am happy to help.
 <br>
