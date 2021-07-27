@@ -17,6 +17,7 @@ Hi I'm an enthusiastic developer from Barranquilla, currently in São Paulo. I a
 - 🌱 I’m currently learning Python and Django.
 - 👯 I’m looking to collaborate on Python projects🤝
 - 🎿 Hobbies other than coding : Diving and Playing Soccer 🤿⚽
+- 🎞 I like make and produce videos even for tutorials
 - 👁‍🗨 I've always liked to scrap websites.
 - ⚡️ Active contributor to 4YouSee [API documentation](https://4yousee-suporte.github.io)
 - 💬 Ask me about anything, I am happy to help.
