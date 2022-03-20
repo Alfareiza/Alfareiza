@@ -13,7 +13,7 @@ Hi I'm an enthusiastic developer from Barranquilla, currently in São Paulo. I a
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-- 👨🏽‍💻 I’m currently working as Analyst Support Agent.
+- 👨🏽‍💻 I’m currently working as Tech Lead Support.
 - 🌱 I’m currently learning Python and Django.
 - 👯 I’m looking to collaborate on Python projects🤝
 - 🎿 Hobbies other than coding : Diving and Playing Soccer 🤿⚽
