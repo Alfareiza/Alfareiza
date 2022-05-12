@@ -5,11 +5,11 @@
   </a>
 </h1>
 
-##   <div align = 'center'>[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AlfonsoAreizaG) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:alfareiza@gmail.com) [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=Telegram&logoColor=white)](https://t.me/alfonsoareizag)</div>
+##   <div align = 'center'>[![Linkedin](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/AlfonsoAreizaG) [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AlfonsoAreizaG) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:alfareiza@gmail.com) [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=Telegram&logoColor=white)](https://t.me/alfonsoareizag)</div>
 
 <!-- Talking about you -->
 
-Hi I'm an enthusiastic developer from Barranquilla, currently in São Paulo. I am a support agent at [4YouSee](http://www.4yousee.com). I like to learn new technologies to solve problems through programming for myself and for society.
+Hi I'm an enthusiastic developer from Barranquilla, currently in São Paulo. I am a leader support at [4YouSee](http://www.4yousee.com). I like to learn new technologies to solve problems through programming for myself and for my team. Ten years’ experience in IT roles, including two in software development for enterprise utilities.
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
@@ -18,7 +18,7 @@ Hi I'm an enthusiastic developer from Barranquilla, currently in São Paulo. I a
 - 👯 I’m looking to collaborate on Python projects🤝
 - 🎿 Hobbies other than coding : Diving and Playing Soccer 🤿⚽
 - 🎞 I like make and produce videos even for tutorials
-- 👁‍🗨 I've always liked to scrap websites.
+- 👁‍🗨 I've always enjoy to scrap websites.
 - ⚡️ Active contributor to 4YouSee [API documentation](https://4yousee-suporte.github.io)
 - 💬 Ask me about anything, I am happy to help.
 <br>
@@ -26,15 +26,15 @@ Hi I'm an enthusiastic developer from Barranquilla, currently in São Paulo. I a
 
 <h2 align="center"> 🛠️ Languages & Frameworks & Tools & Abilities 🛠️ </h2>
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) 
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3) 
+![SQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql) 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) 
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu) 
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku) 
+![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django) 
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=pycharm)
 
 
