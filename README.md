@@ -9,17 +9,17 @@
 
 <!-- Talking about you -->
 
-Hi I'm an enthusiastic developer from Barranquilla, currently in São Paulo. I am a leader support at [4YouSee](http://www.4yousee.com). I like to learn new technologies to solve problems through programming for myself and for my team. Ten years’ experience in IT roles, including two in software development for enterprise utilities.
+Hi I'm an enthusiastic developer from Barranquilla, currently in São Paulo. I like to learn new technologies to solve problems through programming for myself and for my team. Ten years’ experience in IT roles, including two in software development for enterprise utilities.
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-- 👨🏽‍💻 I’m currently working as Tech Lead Support.
-- 🌱 I’m currently learning Python and Django.
+- 👨🏽‍💻 I’m currently working as Python Developer.
+- 🌱 I’m currently learning Python, Scraping and Django.
 - 👯 I’m looking to collaborate on Python projects🤝
 - 🎿 Hobbies other than coding : Diving and Playing Soccer 🤿⚽
 - 🎞 I like make and produce videos even for tutorials
 - 👁‍🗨 I've always enjoy to scrap websites.
-- ⚡️ Active contributor to 4YouSee [API documentation](https://4yousee-suporte.github.io)
+- ✨ Creator of [fouryousee](https://pypi.org/project/fouryousee/) project.
 - 💬 Ask me about anything, I am happy to help.
 <br>
 <br>
@@ -36,6 +36,7 @@ Hi I'm an enthusiastic developer from Barranquilla, currently in São Paulo. I a
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku) 
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django) 
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=pycharm)
+![Readthedocs](https://img.shields.io/badge/-Readthedocs-000000?style=flat-square&logo=readthedocs)
 
 
 <h2 align="center"> &#x1f4c8; GitHub Stats &#x1f4c8; </h2>
