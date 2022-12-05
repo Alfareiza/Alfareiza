@@ -15,11 +15,12 @@ Hi I'm an enthusiastic developer from Barranquilla, currently in São Paulo. I l
 
 - 👨🏽‍💻 I’m currently working as Python Developer.
 - 🌱 I’m currently learning Python, Scraping and Django.
-- 👯 I’m looking to collaborate on Python projects🤝
+- 👯 I’m looking to collaborate on Python projects 🤝
 - 🎿 Hobbies other than coding : Diving and Playing Soccer 🤿⚽
 - 🎞 I like make and produce videos even for tutorials
 - 👁‍🗨 I've always enjoy to scrap websites.
-- ✨ Creator of [fouryousee](https://pypi.org/project/fouryousee/) project.
+- 📄 Collaborator of [Official Python Documentation](https://github.com/python/python-docs-es) in spanish.
+- ✨ Creator of [fouryousee](https://pypi.org/project/fouryousee/) python library.
 - 💬 Ask me about anything, I am happy to help.
 <br>
 <br>
