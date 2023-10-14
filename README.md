@@ -9,7 +9,7 @@
 
 <!-- Talking about you -->
 
-Hi I'm an enthusiastic developer from Barranquilla, currently in São Paulo. I like to learn new technologies to solve problems through programming for myself and for my team. Ten years’ experience in IT roles, including two in software development for enterprise utilities.
+Hi I'm an enthusiastic developer from Barranquilla, currently in São Paulo. I like to learn new technologies to solve problems through programming for myself and for my team. Ten years’ experience in IT roles, including five in software development.
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
