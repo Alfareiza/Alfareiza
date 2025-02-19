@@ -14,7 +14,7 @@ Hi I'm an enthusiastic developer from Barranquilla, currently in São Paulo. I l
  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 - 👨🏽‍💻 I’m currently working as Python Developer.
-- 🌱 I’m currently learning Python, Scraping and Django.
+- 🌱 I’m currently learning GenAI, Python, Scraping and Django.
 - 👯 I’m looking to collaborate on Python projects 🤝
 - 🎿 Hobbies other than coding : Diving and Playing Soccer 🤿⚽
 - 🎞 I like make and produce videos even for tutorials
